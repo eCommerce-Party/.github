@@ -68,5 +68,4 @@ Bu staj boyunca modern frontend teknolojilerini ve proje yönetim araçlarını 
 Hepinize şimdiden başarılar ve iyi eğlenceler! 🚀
 
 
-🍿🧙👩‍💻 0924 Toplantı [Notları](https://github.com/eCommerce-Party/0924-docs)
 
