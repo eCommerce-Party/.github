@@ -1,4 +1,4 @@
-# 🎓 E-Commerce Web Agency Staj Simülasyonu (4 Hafta)
+# 🎓 E-Commerce Web Agency Staj Simülasyonu
 
 **Selamlar Stajyer Takımı! 👋**  
 Uzun ve yorucu bir maratondan sonra _Frontend Bölümü Sonu Canavarı_ :space_invader: ile yüzleşme zamanı! Bu, dört haftalık bir staj simülasyonu. Amacımız, bir e-ticaret web ajansı için yazılım geliştirme süreçlerini deneyimleyerek sektörel bir bakış açısı kazanmanız.
