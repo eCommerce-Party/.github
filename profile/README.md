@@ -34,7 +34,7 @@ Toplantı saatlerini ve diğer detayları [Google Takvimimizden](#) takip edebil
 ### İlk Hafta:
 
 - Hazırlık dökümanı: [Github'da Proje Oluşturma ve Sorunları Yönetme](https://scribehow.com/shared/Githubda_Proje_Olusturma_ve_Sorunlari_Yonetme__H5vwPO2rSkmruCE-b5NUJw) #docs #github
-- Kanban [Project Plan](https://github.com/orgs/Workintech-Graduate-Projects/projects/12/views/2) ı #github
+- Kanban [Project Plan](https://github.com/orgs/eCommerce-Party/projects/3) ı #github
 - Okuma materyalleri:
   - [Altı Şapkalı Düşünme Tekniği](https://www.iienstitu.com/blog/alti-sapkali-dusunme-teknigi-nedir)
   - [Eksi Sözlük - Çalışma Ritmi](https://eksisozluk.com/entry/7312524)
@@ -60,8 +60,8 @@ Bu staj boyunca modern frontend teknolojilerini ve proje yönetim araçlarını 
 - **GitHub Projects**: Görev takibi ve planlama.
 - [Etkinlik Takvimi](https://calendar.google.com/calendar/embed?src=c_98c8f84a6053ffa5ae9eb842f56dac4f9fc139c222ef308be5a3f5c2e2547585%40group.calendar.google.com&ctz=Europe%2FIstanbul)
 - Hazırlık dökümanı: [Github'da Proje Oluşturma ve Sorunları Yönetme](https://scribehow.com/shared/Githubda_Proje_Olusturma_ve_Sorunlari_Yonetme__H5vwPO2rSkmruCE-b5NUJw) #docs #github
-- Kanban [Project Plan](https://github.com/orgs/Workintech-Graduate-Projects/projects/12/views/2) ı #github
-- Önerilen Youtube Playlisti: [Workintech Projesi Doping](https://youtube.com/playlist?list=PL-w1xOwMMQ1PTMXidBINRj9diBko1X86U&si=593jWnLYhvXqixK1)
+- Kanban [Project Plan](https://github.com/orgs/eCommerce-Party/projects/3) ı #github
+- Önerilen Youtube Playlisti: [E-Commerce Projesi Doping](https://youtube.com/playlist?list=PL-w1xOwMMQ1PTMXidBINRj9diBko1X86U&si=593jWnLYhvXqixK1)
 
 ---
 
